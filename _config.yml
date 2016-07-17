@@ -1,7 +1,7 @@
  github: [https://ciaobello.github.io/example/]
- kramdown:
-   input: GFM
-   hard_wrap: false
+ markdown: kramdown
+      input: GFM
+      hard_wrap: false
  gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
+    - jekyll-coffeescript
+    - jekyll-paginate
