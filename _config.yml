@@ -1,4 +1,4 @@
- github: [metadata]
+ github: [https://ciaobello.github.io/example/]
  kramdown:
    input: GFM
    hard_wrap: false
