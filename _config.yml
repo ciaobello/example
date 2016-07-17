@@ -1,5 +1,5 @@
  github: [https://ciaobello.github.io/example/]
- markdown: kramdown
+ kramdown:
       input: GFM
       hard_wrap: false
  gems:
